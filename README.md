@@ -1,1 +1,1 @@
-# cmplab
+# MSc Computational Physics Lab
